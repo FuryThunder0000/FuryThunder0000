@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anir Bouzit.
 - 👀 I’m interested in artificial intelligence.
-- 🌱 I’m currently learning web development and software engineering.
+- 🌱 I’m currently learning web development.
 
 <!---
 FuryThunder0000/FuryThunder0000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
