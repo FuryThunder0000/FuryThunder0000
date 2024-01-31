@@ -20,7 +20,7 @@ Hi there 👋!
   - **Framework:** `Laravel`
   - **Databases:** `MySQL` • `MongoDB`
 
-- 🖥 **Frontend (_I do frontend for fun_):**
+- 🖥 **Frontend:**
 
   - **Programming:** `JavaScript`
   - **Framework/Library:** `React.js`
