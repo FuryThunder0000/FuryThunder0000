@@ -3,7 +3,7 @@ Hi there 👋!
 #### Who I am?
 
 - A Fullstack developer based in **[Marrakesh](https://en.wikipedia.org/wiki/marakesh), [Morocco](https://en.wikipedia.org/wiki/Morocco)**.
-- See my portfolio at **[anirbouzit.com](https://www.anirbouzit.com)**.
+- See my portfolio at **[anirbouzit.com](https://www.anirdev.com)**.
 
 #### What I'm doing?
 
