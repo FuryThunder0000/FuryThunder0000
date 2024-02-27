@@ -23,12 +23,12 @@ Hi there 👋!
 - 🖥 **Frontend:**
 
   - **Programming:** `JavaScript`
-  - **Framework/Library:** `React.js`
+  - **Library:** `React.js`
   - **UI Toolkit:** `Figma`
 
 - 🎡 **Ecosystem:**
-  - **Version Control:** `Git` • `GitHub`
-  - **Project Management:** `Jira`
+  - **Version Control:** `Git` • `GitHub` • `GitLab`
+  - **Project Management:** `Jira` • `Gantt`
 
 #### How to reach me?
 
