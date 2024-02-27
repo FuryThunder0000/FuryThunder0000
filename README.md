@@ -10,7 +10,7 @@ Hi there 👋!
 - Writing `PHP`, `Laravel`, `React.js`, `JavaScript`, `MongoDB`, `MySQL`.
 - Contributing to Open Source.
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/anir-bouzit-091745248)**, **[Twitter](https://twitter.com/FuryThu98375845)** and **[Facebook](https://www.facebook.com/anirbouzit18)**.
-- Building currently **[MyDigitalCoin](https://mydigitalcoin.vercel.app)**, **[ClassProjectAbsence](https://github.com/FuryThunder0000/ClassProjectAbsence)**.
+- Building currently **[MyDigitalCoin](https://mydigitalcoin.vercel.app)**, **[My personal portfolio](https://anirdev.com)**.
 
 #### What are my skill sets?
 
