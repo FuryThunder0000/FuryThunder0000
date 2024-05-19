@@ -16,18 +16,22 @@ Hi there 👋!
 
 - 🗄️ **Backend:**
 
-  - **Programming:** `PHP`
-  - **Framework:** `Laravel`
+  - **Programming:** `PHP` • `Node.js` • `JavaScript`
+  - **Framework:** `Laravel` • `Express.js`
   - **Databases:** `MySQL` • `MongoDB`
+  - **System Architecture:** `Microservices`
+  - **Protocol:** `REST`
 
 - 🖥 **Frontend:**
 
   - **Programming:** `JavaScript`
   - **Library:** `React.js`
   - **UI Toolkit:** `Figma`
+  - **Utils:** `Tailwind`
 
 - 🎡 **Ecosystem:**
-  - **Version Control:** `Git` • `GitHub` • `GitLab`
+  - **Containerization:** `Docker`
+  - **Version Control:** `Git` • `GitHub`
   - **Project Management:** `Jira` • `Gantt`
 
 #### How to reach me?
