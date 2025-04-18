@@ -3,22 +3,22 @@ Hi there 👋!
 #### Who I am?
 
 - A Fullstack developer based in **[Marrakesh](https://en.wikipedia.org/wiki/marakesh), [Morocco](https://en.wikipedia.org/wiki/Morocco)**.
-- See my portfolio at **[anirdev.com](https://www.anirdev.com)**.
+- See my portfolio at **[anirbouzit.com](https://www.anirbouzit.com)**.
 
 #### What I'm doing?
 
 - Writing `PHP`, `Laravel`, `React.js`, `JavaScript`, `MongoDB`, `MySQL`.
 - Contributing to Open Source.
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/anir-bouzit-091745248)**, **[Twitter](https://twitter.com/FuryThu98375845)** and **[Facebook](https://www.facebook.com/anirbouzit18)**.
-- Building currently **[MyDigitalCoin](https://mydigitalcoin.vercel.app)**, **[My personal portfolio](https://anirdev.com)**.
+- Building currently **[MyDigitalCoin](https://mydigitalcoin.vercel.app)**, **[My personal portfolio](https://anirbouzit.com)**.
 
 #### What are my skill sets?
 
 - 🗄️ **Backend:**
 
-  - **Programming:** `PHP` • `Node.js` • `JavaScript`
-  - **Framework:** `Laravel` • `Express.js`
-  - **Databases:** `MySQL` • `MongoDB`
+  - **Programming:** `PHP` • `Node.js` • `JavaScript` • `Python`
+  - **Framework:** `Laravel` • `Express.js` • `Django`
+  - **Databases:** `MySQL` • `MongoDB` • `Oracle`
   - **System Architecture:** `Microservices`
   - **Protocol:** `REST`
 
@@ -27,7 +27,7 @@ Hi there 👋!
   - **Programming:** `JavaScript`
   - **Library:** `React.js`
   - **UI Toolkit:** `Figma`
-  - **Utils:** `Tailwind`
+  - **Utils:** `Tailwind` • `Bootstrap`
 
 - 🎡 **Ecosystem:**
   - **Containerization:** `Docker`
